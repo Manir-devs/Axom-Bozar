@@ -1,2 +1,1 @@
-# Axom-Bozar
-bhai, Welcome to Axom Bozar. iyat moi aru toi collaborate kori website eta bonam
+Moi files gila ready koru and toi css define kori thobi ok?
